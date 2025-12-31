@@ -38,4 +38,5 @@ Analysis:
         "analysis": analysis,
         "final_output": final_output,
         "titles": state["titles"]
+        "links": state["links"] 
     }
