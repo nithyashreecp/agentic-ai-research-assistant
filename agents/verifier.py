@@ -19,7 +19,8 @@ def verifier(state):
         "plan": state["plan"],           
         "analysis": state["analysis"],    
         "final_output": response.content,
-        "titles": state["titles"]         
+        "titles": state["titles"] 
+        "links": state["links"] 
     }
 
 
