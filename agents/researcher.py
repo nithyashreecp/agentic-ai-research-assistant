@@ -14,7 +14,7 @@ def researcher(state):
     for p in papers:
         titles.append(p.title)
         summaries.append(p.summary)
-        links.append(p.entry_id)  # actual arXiv link
+        links.append(p.entry_id)  
 
     return {
         "topic": topic,
