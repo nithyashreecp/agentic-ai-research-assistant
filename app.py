@@ -19,7 +19,8 @@ with st.sidebar:
     st.markdown("""
     - Planner Agent  
     - Researcher Agent  
-    - Analyzer Agent  
+    - Analyzer Agent 
+    - Verifier Agent 
     - Reflector Agent  
     """)
 
