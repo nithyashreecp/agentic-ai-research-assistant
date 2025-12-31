@@ -24,7 +24,8 @@ Summaries:
     return {
         "topic": state["topic"],          
         "plan": state["plan"],            
-        "titles": state["titles"],         
+        "titles": state["titles"], 
+        "links": state["links"],
         "analysis": response.content
     }
 
