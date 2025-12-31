@@ -100,7 +100,7 @@ if st.button("🚀 Run Autonomous Research"):
         for title, link in zip(result["titles"], result["links"]):
             st.markdown(f"- [{title}]({link})")
     else:
-    st.markdown("_No paper links available._")
+        st.markdown("_No paper links available._")
 
 
 
