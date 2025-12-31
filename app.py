@@ -95,8 +95,11 @@ if st.button("🚀 Run Autonomous Research"):
 
     # SOURCES 
     st.subheader("📚 Papers Referenced")
-    for title in result["titles"]:
-        st.markdown(f"- {title}")
+
+    for title, link in zip(result["titles"], result["links"]):
+    st.markdown(f"- [{title}]({link})")
+
+
 
 
 
