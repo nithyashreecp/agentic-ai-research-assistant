@@ -110,12 +110,10 @@ agentic-ai-research-assistant/
 ## 7. How to Run Locally
 
 Step 1: Clone the Repository
-```bash
 git clone https://github.com/<your-username>/agentic-ai-research-assistant.git
 cd agentic-ai-research-assistant
 
 Step 2: Install Dependencies
-```bash
 pip install -r requirements.txt
 
 Step 3: Configure Environment Variables
@@ -130,7 +128,7 @@ streamlit run app.py
 ---
 
 ## 8. Live Deployment
-
+   
 Live Application URL:
 https://agentic-ai-research-assistant-j7w8eckjmuwejspbdc3jr.streamlit.app
 
@@ -147,3 +145,5 @@ https://agentic-ai-research-assistant-j7w8eckjmuwejspbdc3jr.streamlit.app
 -Reflector agent refines and stores knowledge
 -Final structured analysis is presented to the user
 ---
+      
+
