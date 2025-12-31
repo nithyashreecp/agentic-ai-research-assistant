@@ -130,7 +130,7 @@ streamlit run app.py
 ## 8. Live Deployment
    
 Live Application URL:
-https://agentic-ai-research-assistant-j7w8eckjmuwejspbdc3jr.streamlit.app
+https://agentic-ai-research-assistant-jz7w8eckjmuwejspbdc3jr.streamlit.app/
 
 ---
 
