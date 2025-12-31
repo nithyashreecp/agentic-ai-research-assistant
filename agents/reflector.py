@@ -37,6 +37,6 @@ Analysis:
         "plan": state["plan"],
         "analysis": analysis,
         "final_output": final_output,
-        "titles": state["titles"]
+        "titles": state["titles"],
         "links": state["links"] 
     }
