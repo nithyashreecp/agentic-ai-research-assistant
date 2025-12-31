@@ -97,8 +97,8 @@ if st.button("🚀 Run Autonomous Research"):
     st.subheader("📚 Papers Referenced")
 
     if "links" in result and result["links"]:
-    for title, link in zip(result["titles"], result["links"]):
-        st.markdown(f"- [{title}]({link})")
+        for title, link in zip(result["titles"], result["links"]):
+            st.markdown(f"- [{title}]({link})")
     else:
     st.markdown("_No paper links available._")
 
